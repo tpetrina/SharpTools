@@ -1,0 +1,6023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>PBZ Podružnica Zagreb</name>
+  <description><![CDATA[Popis poslovnica, ispostava, bankomata Privredne banke Zagreb na području Podružnice Zagreb.]]></description>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/hr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Cvjetni trg</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Trg Petra Preradovića 4, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 808</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/4830 533</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00-13:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>15.974035,45.812050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Črnomerec</name>
+    <description><![CDATA[<div dir="ltr">Poslovnica<br>Bankomat<br>PBZ Sinergo desk<br>Dnevno-noćni trezor<br><br>Ilica 288,10000 Zagreb<br>tel: 01/6362 814<br>fax: 01/3702 722</div>
+<div dir="ltr">tel. (PBZ Sinergo desk): 01/6362 508<br><br>Radno vrijeme:</div>
+<div dir="ltr">pon-pet 9:00-19:00<br>sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-13:00</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr">Radno vrijeme PBZ Sinergo desk-a:<br>pon-pet 8:00-16:00<br><br><a href="http://www.pbz.hr/" target="_blank">www.pbz.hr</a></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>15.933352,45.815491,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Dubec</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dubečka bb (</span><span style="font-family:Calibri;font-size:11pt">"KONZUM"</span><span style="font-family:Calibri;font-size:11pt">)</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 855</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: 01/2987 966</span></div><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme:</div>
+<div></div></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 8:00-18:00</span> 
+<div><span style="font-family:Calibri;font-size:11pt">subotom ne radi</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>16.079103,45.827930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Dubrava</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Avenija Dubrava 39, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 809</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/2991 866</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362287</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-&nbsp;pet&nbsp;&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon - pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>16.046059,45.826900,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Dugave</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Dnevno-noćni trezor<br></span><span style="font-size:11pt;font-family:Calibri"></span></div><span style="font-size:11pt;font-family:Calibri">
+<div style="margin:0cm 0cm 0pt"><br>Sarajevska&nbsp;cesta 6&nbsp;("KONZUM"),</div>
+<div style="margin:0cm 0cm 0pt">1000 Zagreb<br>&nbsp;</div></span><span style="font-size:11pt;font-family:Calibri">tel: 01/6362 848</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">fax: </span><span style="font-size:11pt;font-family:Calibri">01/6601 243</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">pon-pet&nbsp;&nbsp;&nbsp; 9:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-13:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-size:11pt;font-family:Calibri">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>16.004807,45.770157,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Gajnice</name>
+    <description><![CDATA[<span style="font-family:Calibri;font-size:11pt">Poslovnica</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Sigetje 12, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 832</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/3793 366</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon- pet&nbsp;&nbsp;&nbsp;&nbsp;8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>15.875190,45.814293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Grada Vukovara</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Ulica grada Vukovara 72, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">tel: 01/6362 807</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">fax: </span><span style="font-size:11pt;font-family:Calibri">01/6310 453</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">pon-pet &nbsp;8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">subotom ne radi&nbsp;</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-size:11pt;font-family:Calibri">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>15.973236,45.799500,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Ilica</name>
+    <description><![CDATA[<div dir="ltr">Poslovnica <br>Bankomat <br>Ilica 87,&nbsp;10000 Zagreb<br>tel: 01/6362 810 <br>fax: 01/3702 765 <br><br>Radno vrijeme: <br>pon-&nbsp;pet&nbsp;&nbsp;&nbsp; 8:00-19:00</div>
+<div dir="ltr">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00 <br><br>www.pbz.hr</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>15.961676,45.812439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Ina-Trgovina</name>
+    <description><![CDATA[<span style="font-family:Calibri;font-size:11pt">Poslovnica</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Avenija V. Holjevca 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 804</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6525 214</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6364208</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp;&nbsp;8:00-15:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">subotom ne radi</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 7:30-14:30</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>15.979035,45.778465,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Središće</name>
+    <description><![CDATA[<DIV dir="ltr">Poslovnica <BR>Bankomat <BR><BR><BR>Aleja Ivana Šibla bb,10000 Zagreb&nbsp;<BR>tel: 01/6362 819 <BR>fax: 01/6636 332 <BR><BR>Radno vrijeme: <BR>pon pet 8:00-19:00 <BR>sub&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;8:00-12:00 <BR><BR>www.pbz.hr</DIV>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>15.987285,45.778561,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Jarun</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Poslovnica</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Bankomat</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri"><SPAN style="font-size:11pt;font-family:Calibri">PBZ Sinergo desk</SPAN></SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>Dnevno-noćni trezor</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">H</SPAN><SPAN style="font-size:11pt;font-family:Calibri">rvoja Macanovića 27, 10000 Zagreb</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">tel: 01/6362 830</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">fax: </SPAN><SPAN style="font-size:11pt;font-family:Calibri">01/3013 037</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">tel. (PBZ Sinergo desk): 01/6362 283</SPAN></DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">
+<DIV style="margin:0cm 0cm 0pt"><BR>Radno vrijeme:</DIV>
+<DIV style="margin:0cm 0cm 0pt"></DIV></SPAN><SPAN style="font-size:11pt;font-family:Calibri">pon-pet&nbsp;&nbsp;8:00-19:00</SPAN> 
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Radno vrijeme PBZ Sinergo desk-a:</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">pon-pet 8:00-16:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>15.931259,45.789272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica King Cross</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Velimira Škorpika 34, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 828</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/3498 568</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon -&nbsp;pet&nbsp; 9:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-13:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>15.856780,45.796135,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ Kneza Mislava</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Kneza Mislava 2,10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 811</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/4576 031</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon&nbsp;- pet&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">subotom ne radi</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>15.984399,45.808121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Kod Cibone</name>
+    <description><![CDATA[<span style="font-size:11pt;font-family:Calibri">Poslovnica</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">Bankomat<br>Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Savska 28, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">tel: 01/6362 835</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">fax: </span><span style="font-size:11pt;font-family:Calibri">01/4843 153</span></div><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme:</div>
+<div style="margin:0cm 0cm 0pt"></div></span><span style="font-size:11pt;font-family:Calibri">pon-pet&nbsp; 8:00-19:00</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:12pt"><a href="http://www.pbz.hr/" target="_blank"><span style="font-size:11pt;font-family:Calibri">www.pbz.hr</span></a></span></div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>15.964079,45.802925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Kralj Tomislav</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Ilica 191,10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 885</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/3704 488</span></div><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme:</div></span><span style="font-family:Calibri;font-size:11pt">pon- pet&nbsp; 8:00-18:00</span> 
+<div style="margin:0cm 0cm 0pt">subotom ne radi</div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"><a href="http://www.pbz.hr/" target="_blank">www.pbz.hr</a></span></div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>15.945990,45.812485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Kvaternikov trg</name>
+    <description><![CDATA[<div dir="ltr">Poslovnica <br>Bankomat <br>Dnevno-noćni trezor </div>
+<div dir="ltr"><br>Heinzelova 1, 10000 Zagreb&nbsp;<br>tel: 01/6362 836 <br>fax: 01/2302 090 <br><br>Radno vrijeme: <br>pon-&nbsp;pet&nbsp;&nbsp; 8:00-19:00</div>
+<div dir="ltr">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8:00-12:00 <br><br>www.pbz.hr</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>15.998218,45.813965,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Lastovska</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Lastovska 23, 10000 Zagreb&nbsp;</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri">tel</span><span style="font-size:11pt;font-family:Calibri">: 01/6362 803</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">fax: </span><span style="font-size:11pt;font-family:Calibri">01/6310 444</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">pon-&nbsp;pet&nbsp; 9:00-19</span><span style="font-size:11pt;font-family:Calibri">:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><span style="font-size:11pt;font-family:Calibri">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-size:11pt;font-family:Calibri"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-size:11pt;font-family:Calibri">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>15.999248,45.794205,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Maksimirska</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Poslovnica</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Bankomat</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Maksimirska 108, 10000 Zagreb</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">tel: 01/6362 812</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">fax: </SPAN><SPAN style="font-size:11pt;font-family:Calibri">01/2302 228</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Radno vrijeme:</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">pon-pet 8:00-19:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>16.010975,45.818005,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Ispostava Mercator</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Ulica grada Vukovara 269b,</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 824</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6040 569</span></div><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme</div></span><span style="font-family:Calibri;font-size:11pt">pon-&nbsp;pet&nbsp; 9:00-16:00</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">&nbsp;</span><span style="font-family:Calibri;font-size:11pt">subotom ne radi</span></div>
+<div><span style="font-family:Calibri;font-size:11pt"></span></div>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">ww.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>16.007027,45.802513,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Oktogon</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Ilica 5, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 800</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/4825 032</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362508, 01/6364140</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>15.975237,45.812550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Rački</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Franje Račkoga 6,10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 845</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6362 843, 6362 844</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362292, 01/6362753</span></div><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme:</div>
+<div style="margin:0cm 0cm 0pt"></div></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 8:00-19:00</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-size:12pt"><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></span></div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>15.985333,45.810986,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Radnička</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"><span style="font-family:Calibri;font-size:11pt"></span>Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radnička 44, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 888</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6362 269</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362289</span></div><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Radno vrijeme:</div></span><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-19:00</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>16.000772,45.803146,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Savska</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Savska 163, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 817</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6191 797</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon - pet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">subotom ne radi</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>15.956182,45.789253,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Špansko</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Trg Ivana Kukuljevića 11, </span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">10000 Zagreb&nbsp;<br></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 821</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/3878 924</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6360333</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"><a href="http://www.pbz.hr/" target="_blank">www.pbz.hr</a></span></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>15.896627,45.804192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Ispostava Šubićeva</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Šubićeva 29, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 822</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/4641 032</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon - pet &nbsp;8:00-15:00</span></div>
+<div style="margin:0cm 0cm 0pt">subotom ne radi</div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>15.994731,45.812073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Trešnjevački trg</name>
+    <description><![CDATA[<DIV dir="ltr">Poslovnica <BR>Bankomat <BR>PBZ Sinergo desk <BR>Dnevno-noćni trezor <BR><BR>Ozaljska 4, 10000 Zagreb&nbsp;<BR>tel: 01/6362 815 <BR>fax: 01/3098 171 <BR>tel. (PBZ Sinergo desk): 01/6362 286 <BR><BR>Radno vrijeme: <BR>pon-pet 8:00-19:00 <BR>sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;8:00-12:00 <BR><BR>Radno vrijeme PBZ Sinergo desk-a: <BR>pon-pet 8:00-16:00 <BR><BR>www.pbz.hr</DIV>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>15.953538,45.799938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Vrbani</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Poslovnica</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Bankomat</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Palinovečka 19 B, 10000 Zagreb</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">tel: 01/6362 860</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">fax: </SPAN><SPAN style="font-size:11pt;font-family:Calibri">01/3883 434</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Radno vrijeme:</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">pon sri pet &nbsp;12:00-19:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">uto čet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-15:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt">subotom ne radi</DIV>
+<DIV style="margin:0cm 0cm 0pt">&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>15.914222,45.790443,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Samobor / Poslovnica Samobor</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Zagrebačka 26, 10430 Samobor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 827</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/3325 965,<span>&nbsp; </span>3325 966</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362 293</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 8:00-18:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon-pet 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>15.718850,45.804115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Velika Gorica / Poslovnica Velika Gorica</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Poslovnica</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Bankomat</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Zagrebačka 12, 10410 Velika Gorica</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">tel: 01/6362 825</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">fax: </SPAN><SPAN style="font-size:11pt;font-family:Calibri">01/6219 324</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Radno vrijeme:</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">pon sri pet&nbsp;&nbsp;8:00-15:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">uto čet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12:00-19:00</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>subotom ne radi&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt">&nbsp;</DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>16.073578,45.714951,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Velika Gorica / Poslovnica Velika Gorica II</name>
+    <description><![CDATA[<span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Poslovnica</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt"><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"><span style="font-family:Calibri;font-size:11pt"></span>Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Trg Stjepana Radića 6, </span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">10410 Velika Gorica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 833</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/6222 414</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362294</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-&nbsp;pet&nbsp;&nbsp; 8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon - pet&nbsp; 8:00-16:00</span></div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>16.074587,45.712860,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sesvete / Poslovnica Sesvete</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Poslovnica</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Bankomat</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Dnevno-noćni trezor</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Trg Dragutina Domjanića 4, </span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">10360 Sesvete</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 818</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: </span><span style="font-family:Calibri;font-size:11pt">01/2011 773</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp;&nbsp;8:00-19:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">sub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:00-12:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt">
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span></div><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>16.110249,45.826885,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ ispostava Hrvatski sabor</name>
+    <description><![CDATA[<div dir="ltr">Ispostava <br><br>Trg sv.Marka 6, 10000 Zagreb <br>tel: 01/6362 823 <br>fax: 01/4851 005 <br><br>Radno vrijeme:</div>
+<div dir="ltr"><span style="font-size:10pt"><strong>pon-pet &nbsp;&nbsp; 8:00-15:00</strong></span></div>
+<div dir="ltr"><span style="font-size:10pt">pauza&nbsp;&nbsp;&nbsp; 12:00-12:30&nbsp;</span></div>
+<div dir="ltr"><span style="font-size:10pt"><strong>subotom ne radi</strong></span></div>
+<p>&nbsp;</p>
+<div dir="ltr"><br>www.pbz.hr</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>15.974346,45.816246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ ispostava HEP</name>
+    <description><![CDATA[<span style="font-family:Calibri;font-size:11pt">Ispostava</span> <span style="font-family:Calibri;font-size:11pt">
+<div style="margin:0cm 0cm 0pt"><br>Ulica grada Vukovara 37, 10000 Zagreb</div>
+<div style="margin:0cm 0cm 0pt"></div></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 405</span> 
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: 01/</span><span style="font-family:Calibri;font-size:11pt">6170 756</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon - pet&nbsp;&nbsp; 8:00 - 15:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pauza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:30-12:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></div>
+<div style="margin:0cm 0cm 0pt">subotom ne radi</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>15.968660,45.800198,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ ispostava Sveti Duh</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Ispostava </span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Sveti Duh 64, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362 820</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: 01/3745 228</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp; 7:30-14:30</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pauza&nbsp;&nbsp;&nbsp;&nbsp; 11:30-12:00</span></div>
+<div style="margin:0cm 0cm 0pt">subotom ne radi</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>15.939038,45.819679,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ Poslovnica Kraš</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt">Poslovnica</div>
+<div style="margin:0cm 0cm 0pt">Bankomat</div>
+<div style="margin:0cm 0cm 0pt">Dnevno-noćni trezor</div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Ravnice 48, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/6362864</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">fax: 01/2302448</span><span style="font-family:Calibri;font-size:11pt"><br>&nbsp;</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pon -pet 8:00-18:00</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">subotom&nbsp;&nbsp;&nbsp;&nbsp;ne radi</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>16.028837,45.820904,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ ispostava Nova bolnica</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Ispostava</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Avenija Gojka Šuška 6, 10000 Zagreb</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">tel: 01/636 2802</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">fax: 01/2992 026</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Radno vrijeme:</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">pon-pet&nbsp;&nbsp; 7:30-14:30</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">pauza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:30-12:00</span></div>
+<div style="margin:0cm 0cm 0pt">subotom ne radi</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>16.034105,45.831783,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Kraljevićeva 24</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(autosalon Auto&nbsp;Maksimir)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P>&nbsp;</P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>16.010954,45.820412,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Pleso bb </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Zračna luka Zagreb&nbsp;– domaći odlazak)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>16.059641,45.731766,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">Pakoštanska 5 </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(mjenjačnica&nbsp;</SPAN><SPAN style="font-size:11pt;font-family:Calibri">"DINMAL-PROM" tržnica Jarun</SPAN><SPAN style="font-size:11pt;font-family:Calibri">)</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>15.927740,45.789558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Rudeška 140</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(poslovni centar "VE-MIL)<BR>&nbsp;</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>15.919425,45.794659,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trešnjevački trg bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(robna kuća "KONZUM")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>15.954868,45.800220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Ilica 298a </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(robna kuća "KONZUM" Kustošija)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>15.928416,45.814026,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Kvaternikov trg bb</SPAN> </DIV>
+<DIV>("NAMA" Kvatrić)</DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>15.997703,45.814819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trg kralja Tomislava 12</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(željeznički kolodvor)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>15.978890,45.804634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Barčev trg bb </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("Lantea" tržnica Utrine)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>15.996255,45.777050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Hribarov prilaz 6 </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("MAK-ELEKTRONIKA" Dugave)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>15.992065,45.763908,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Pothodnik</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("Borovo"; Pothodnik glavnog kolodvora)</SPAN> </DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>15.977844,45.804111,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trg bana Josipa Jelačića<SPAN> 7</SPAN></SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"><SPAN>("Intersport" trgovina)</SPAN></SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>15.977705,45.813217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Vilka Šefera 2</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">&nbsp;(</span><span style="font-family:Calibri;font-size:11pt">"DIZ-PROM"; Ravnice</span><span style="font-family:Calibri;font-size:11pt">)<br>&nbsp;</span></div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>16.025747,45.819332,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Avenija Marina Držića bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">(autobusni kolodvor)</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>15.993905,45.803604,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Koledinečka bb </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("MLINAR" trgovina; tržnica Dubrava)</SPAN> </DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>16.059254,45.831467,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Jarunska 2</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">(studentski dom S. Radić)</span></div>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>15.949144,45.784584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Slavenskog 1 </span></div>
+<div><span style="font-family:Calibri;font-size:11pt">(Shoping centar&nbsp;Prečko)</span> </div>
+<div>&nbsp;</div>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>15.900006,45.795822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Savska 25</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Knjižara i papirnica studentskog centra)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A><SPAN style="font-size:11pt;font-family:Calibri"></SPAN></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>15.965946,45.803898,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Aleja javora bb </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("Konzum" trgovina)</SPAN> </DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>16.068653,45.826214,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Ilica 197 </SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Klinika za tumore)<BR>&nbsp;</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>15.945454,45.812546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Ilica 335</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(MUP)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>15.924382,45.812897,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Trg Volovčica bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA"; tržnica Volovčica)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>16.016468,45.809696,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Froudeova 5</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("KONZUM")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>15.972018,45.776878,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Zagrebačka&nbsp;avenija 108</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("KONZUM")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>15.892872,45.797363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Vrapčanska b.b.</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">("ROGINA-B" mjenjačnica; tržnica Vrapče)</span></div>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>15.905735,45.813698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Avenija Gojka Šuška b.b.</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(KB Dubrava)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>16.034149,45.831566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Avenija Dubrovnik 32</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Porezna uprava)</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>15.988476,45.777245,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Meštrovićev trg bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("Lantea"; Zapruđe)</SPAN> </DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>15.996244,45.778645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Vlaška 93 b</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("Lantea")</SPAN>&nbsp;</DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>15.991362,45.813919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">I. B. Mažuranić 20</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Ljekarna Šušteršić; Malešnica)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>15.901916,45.806667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Trnsko 29</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">("DIONA")</span></div>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>15.965592,45.771152,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Zagrebačka avenija bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("TIFON" benzinska postaja)<br>&nbsp;</SPAN></div>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>15.867262,45.796913,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Jarun bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Crkva sv. Mati slobode)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>15.928395,45.787022,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">Braće Domany 6</SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><SPAN style="font-size:11pt;font-family:Calibri">("Sunce global")</SPAN></DIV>
+<P></P></P>
+<P style="margin:0cm 0cm 0pt"><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri"><BR></SPAN></A></P></P>
+<P></P></P>
+<P style="margin:0cm 0cm 0pt"><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P><BR>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>15.938335,45.790150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Laurenčićeva bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>16.003996,45.793396,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Tina Ujevića 17</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("KONZUM"; Knežija)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>15.949488,45.789299,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trg bana Josipa Jelačića 12</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Galerija zaklade za Djecu Hrvatske)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>15.977887,45.812595,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Ozaljska 148</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("KONZUM")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>15.937257,45.797169,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Petrinjska 30</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(MUP)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>15.979968,45.808739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Cebini bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("MODIĆ" poslovni centar)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>15.995418,45.747154,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Prisavlje 14</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Ministarstvo prometa i veza)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>15.969990,45.791294,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Iblerov trg 10</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Importanne galerija)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>15.984786,45.813351,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Zavrtnica 17</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Poslovni centar Zavrtnica)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>16.000504,45.806862,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Velimira Škorpika bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("BAUMAX")<br>&nbsp;</SPAN></div>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>15.859280,45.803467,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Florijana Andrašeca 20</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("HT mobile")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>15.960195,45.799763,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Lanište 13 D</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(poslovni prostor)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>15.945904,45.774063,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Novačka 62</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Biro Data Servis)</SPAN> </DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>16.038021,45.834183,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Johna F. Kennedya 6</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(zgrada ekonomskog fakulteta)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>16.011478,45.815872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Bolnička 89</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(poslovni prostor; G. Stenjevac)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>15.886536,45.817474,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Lovćenska 2</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></DIV>
+<DIV>&nbsp;</DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>15.965581,45.846142,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Šibenska 1</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA"; Voltino)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>15.928749,45.804325,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Vladimira Varićaka 12</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA"; Sloboština)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>15.987833,45.764755,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Bijenička 5</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>15.984721,45.826782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Petrovaradinska bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>15.905735,45.790855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Krešićeva 32</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("FAVORIT" kladionica</SPAN><SPAN style="font-size:11pt;font-family:Calibri">)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>16.019247,45.814487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Sajmišna bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("GETRO"; Novi Zagreb)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>16.004763,45.778885,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Selska 34</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("DIONA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>15.942085,45.808193,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Sveti Duh 69/A</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(caffe bar "VIZITA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>15.938652,45.819229,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Jankomir 33</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("CITY CENTAR ONE")<br>&nbsp;</SPAN></div>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>15.885801,45.798664,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Kaptol 24</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Kanonički dvor)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>15.978627,45.816162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-family:Calibri;font-size:11pt">Slavonska avenija 17 </SPAN></DIV>
+<DIV><SPAN style="font-family:Calibri;font-size:11pt"></SPAN><SPAN style="font-family:Calibri;font-size:11pt">("MD PROFIL")<BR>&nbsp;</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-family:Calibri;font-size:11pt">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>16.094133,45.806725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri"></SPAN><SPAN style="font-size:11pt;font-family:Calibri">Bogovićeva 5</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(PBZ poslovnica)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>15.974797,45.812290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Pleso bb</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(Zračna luka Zagreb – međunarodni dolazak)</SPAN></DIV>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P><SPAN style="font-size:11pt;font-family:Calibri"></SPAN>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>16.060358,45.732300,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div dir="ltr">Podsusedska aleja 3</div>
+<div dir="ltr">("KONZUM")&nbsp;<br><br><a href="http://www.pbz.hr/" target="_blank">www.pbz.hr</a></div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>15.837071,45.816673,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sesvetski Kraljevec / Bankomat</name>
+    <description><![CDATA[<DIV>Dugoselska 33a</DIV>
+<DIV>("ELEZ" centar)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>16.171896,45.817673,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Kišpatićeva 12</DIV>
+<DIV>(KBC REBRO)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>16.005236,45.823654,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Strmec Samoborski / Bankomat</name>
+    <description><![CDATA[<div dir="ltr">Dr. F. Tuđmana 6<br>(&quot;EURO PETROL&quot; benzinska postaja)<br><br>www.pbz.hr</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>15.786066,45.806545,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Pokupsko / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trg Pavla Štoosa</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">(zgrada općine)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>15.992006,45.485619,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Samobor / Bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Ulica grada Wurgesa bb</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">("KONZUM")<br>&nbsp;</span></div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>15.718002,45.805710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Ivanja Reka / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Slavonska avenija 106</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("LESNINA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>16.102674,45.805275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sveta Nedjelja / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Stilinovićeva 4</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("FRAKOS" mini market)</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>15.777311,45.796974,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Lučko / Bankomat</name>
+    <description><![CDATA[<DIV><FONT size="2" face="Calibri"><SPAN style="font-family:Calibri;font-size:11pt">Karlovačka bb</SPAN></FONT></DIV>
+<DIV><FONT size="2" face="Calibri"><SPAN style="font-family:Calibri;font-size:11pt">("BP TIFON")<BR>&nbsp;</SPAN></FONT></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><FONT size="3" face="Calibri"><SPAN style="font-family:Calibri;font-size:12pt"><A href="http://www.pbz.hr/" target="_blank"><FONT size="2"><SPAN style="font-size:11pt">www.pbz.hr</SPAN></FONT></A></SPAN></FONT></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>15.902163,45.759060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sesvete / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Ljudevita Posavskog 5</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("GETRO")</SPAN>&nbsp;</DIV>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>16.101891,45.820583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sesvete / PBZ bankomat</name>
+    <description><![CDATA[<div><span style="font-family:Calibri;font-size:11pt">Selčinska 14</span></div>
+<div><span style="font-family:Calibri;font-size:11pt">("VIVA SPORT")</span></div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>16.112095,45.833103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Velika Gorica / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Hrvatske bratske zajednice 1</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("MERCATOR")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>16.067064,45.717590,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Velika Gorica / Bankomat</name>
+    <description><![CDATA[<DIV><SPAN style="font-size:11pt;font-family:Calibri">Trg kralja Tomislava 33</SPAN></DIV>
+<DIV><SPAN style="font-size:11pt;font-family:Calibri">("FINA")</SPAN></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P><A href="http://www.pbz.hr/" target="_blank"><SPAN style="font-size:11pt;font-family:Calibri">www.pbz.hr</SPAN></A></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>16.077085,45.712669,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Božidara Magovca 47</DIV>
+<DIV>("DIONA")</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>15.994195,45.771221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Ulica grada Vukovara 78</DIV>
+<DIV>(Ministarstvo gospodarstva)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>15.977640,45.799545,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Vrbik 33</DIV>
+<DIV>(poslovni prostor)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>15.965624,45.795265,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / PBZ Ispostava Sesvete</name>
+    <description><![CDATA[<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">PBZ Sinergo desk</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><span style="font-family:Calibri;font-size:11pt">Zagrebačka 20, Sesvete</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel: 01/6362956</span><span style="font-family:Calibri;font-size:11pt"><br>fax: </span><span style="font-family:Calibri;font-size:11pt">01/2063410</span></div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">tel. (PBZ Sinergo desk): 01/6362956</span></div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt">Radno vrijeme PBZ Sinergo desk-a:</span></div>
+<div style="margin:0cm 0cm 0pt"><font size="3" face="Calibri">pon - pet 08:00-16:00 h</font></div>
+<div style="margin:0cm 0cm 0pt"><font size="3" face="Calibri">Radno vrijeme blagajne do 15:30 h</font></div>
+<div style="margin:0cm 0cm 0pt"><font size="3" face="Calibri"></font>&nbsp;</div>
+<div style="margin:0cm 0cm 0pt">&nbsp;</div>
+<div style="margin:0cm 0cm 0pt"><span style="font-family:Calibri;font-size:11pt"></span><a href="http://www.pbz.hr/" target="_blank"><span style="font-family:Calibri;font-size:11pt">www.pbz.hr</span></a></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>16.105528,45.828053,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Avenija Dubrovnik 16</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>(Avenue Mall)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>15.978670,45.775906,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Horvatovac 58</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>(Diona)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>15.991051,45.821674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Oporovečka 14</DIV>
+<DIV>(GARDEN MALL)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>16.046692,45.836365,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Ulica kneza Branimira 181</DIV>
+<DIV>("Interspar")</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>16.078491,45.823776,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Vukovarska 33</DIV>
+<DIV>(Ministarstvo unutarnjih poslova RH)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>15.963650,45.800026,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Gračani 7</DIV>
+<DIV>(Diona)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>www.pbz.hr</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>15.973692,45.857738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Poslovnica Arena</name>
+    <description><![CDATA[<div>Poslovnica</div>
+<div>Bankomat</div>
+<div>Dnevno noćni trezor</div>
+<div>&nbsp;</div>
+<div>Lanište 32, 10000 Zagreb</div>
+<div>tel:01/636 2834</div>
+<div>fax:01/653 1173&nbsp;</div>
+<div>&nbsp;</div>
+<div>Radno vrijeme:</div>
+<div>pon-pet 10:00 - 19:00</div>
+<div>subota&nbsp;&nbsp;&nbsp; 9:00 - 13:00</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr/" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>15.942085,45.771923,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Donji Stupnik / Bankomat</name>
+    <description><![CDATA[<DIV>Gospodarska ulica 5</DIV>
+<DIV>"Mercatone"</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>15.879750,45.748436,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Samobor / Bankomat</name>
+    <description><![CDATA[<DIV>Trg kralja Tomislava 6</DIV>
+<DIV>"Croatia osiguranje"</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>15.709634,45.801819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<DIV>Vukomerec 33</DIV>
+<DIV>("Habat" rent-a-car)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>16.041498,45.807835,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Sesvete / Bankomat</name>
+    <description><![CDATA[<DIV>Ladislava Šabana 16</DIV>
+<DIV>("Konzum")</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="http://www.pbz.hr/" target="_blank">www.pbz.hr</A></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>16.103382,45.811451,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Bankomat</name>
+    <description><![CDATA[<div>Albrechtova 30</div>
+<div>(poslovni prostor)</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>16.027552,45.817467,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div>Bencekovićeva 27</div>
+<div>(poslovni prostor)</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>15.960324,45.783386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Samobor / Bankomat</name>
+    <description><![CDATA[<div>Ul. 151. Samoborske brigade HV</div>
+<div>(autobusni kolodvor)</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>15.715213,45.809940,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div>Slavonska avenija 11 D</div>
+<div>(City center ONE EAST)</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>16.049995,45.801430,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBZ Zagreb / Bankomat</name>
+    <description><![CDATA[<div>Metalčeva b.b.</div>
+<div>(poslovni prostor)</div>
+<div>&nbsp;</div>
+<div><a href="http://www.pbz.hr" target="_blank">www.pbz.hr</a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>15.953028,45.805367,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
