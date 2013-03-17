@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Xml.Linq;
 using Roslyn.Compilers;
+using Roslyn.Compilers.CSharp;
 using Roslyn.Compilers.Common;
 using Roslyn.Scripting;
 using Roslyn.Scripting.CSharp;
@@ -167,6 +168,16 @@ namespace XmlCleaner.ViewModels
             }
         }
 
+        internal async Task CreateSyntaxTree(string text)
+        {
+            await Task.Run(async () =>
+            {
+                var compiled = SyntaxTree.ParseText(text);
+                var newRoot = new Rewriter().Visit(await compiled.GetRootAsync());
+                return CompileAndRun(newRoot.ToString());
+            });
+        }
+
         private void WriteOutput()
         {
             var sb = new StringBuilder();
@@ -182,6 +193,19 @@ namespace XmlCleaner.ViewModels
             StatusText = text;
             StatusBackgroundColor = background;
             StatusForegroundColor = foreground;
+        }
+    }
+
+    public class Rewriter : SyntaxRewriter
+    {
+        public override SyntaxNode Visit(SyntaxNode node)
+        {
+            return base.Visit(node);
+        }
+
+        public override SyntaxNode VisitLocalDeclarationStatement(LocalDeclarationStatementSyntax node)
+        {
+            return base.VisitLocalDeclarationStatement(node);
         }
     }
 }

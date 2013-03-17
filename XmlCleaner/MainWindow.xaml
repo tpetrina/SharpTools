@@ -57,15 +57,24 @@
             </TabItem>
         </TabControl>
 
-        <avalonEdit:TextEditor x:Name="txtCode" Grid.RowSpan="2" Grid.Column="1"
-                               avalonUtilities:TextEditorExtensions.Text="{Binding Code}"
-                               SyntaxHighlighting="C#"
-                               ShowLineNumbers="True"
-                               KeyDown="TxtCode_OnKeyDown">
-            <i:Interaction.Behaviors>
-                <avalonUtilities:TextEditorTextBindingBehavior Text="{Binding Code}"/>
-            </i:Interaction.Behaviors>
-        </avalonEdit:TextEditor>
+        <TabControl Grid.RowSpan="2" Grid.Column="1">
+            <TabItem Header="C# code">
+                <avalonEdit:TextEditor x:Name="txtCode"
+                                       avalonUtilities:TextEditorExtensions.Text="{Binding Code}"
+                                       SyntaxHighlighting="C#"
+                                       ShowLineNumbers="True"
+                                       KeyDown="TxtCode_OnKeyDown">
+                    <i:Interaction.Behaviors>
+                        <avalonUtilities:TextEditorTextBindingBehavior Text="{Binding Code}"/>
+                    </i:Interaction.Behaviors>
+                </avalonEdit:TextEditor>
+            </TabItem>
+            <TabItem Header="Syntax tree">
+                <TextBlock x:Name="TxtSyntax"
+                           HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                           TextWrapping="WrapWithOverflow" />
+            </TabItem>
+        </TabControl>
 
         <TextBlock Text="{Binding StatusText}"
                    Background="{Binding StatusBackgroundColor}"

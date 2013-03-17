@@ -1,8 +1,11 @@
 ﻿using System;
 using System.IO;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Input;
 using Roslyn.Compilers;
 using Roslyn.Compilers.Common;
+using Roslyn.Compilers.CSharp;
 using XmlCleaner.AvalonExtensions;
 using XmlCleaner.ViewModels;
 
@@ -35,6 +38,8 @@ namespace XmlCleaner
         {
             _vm.BuildErrors = new ReadOnlyArray<CommonDiagnostic>();
 
+            BuildSyntaxTree(txtCode.Text);
+
             if (e.Key == Key.F5)
             {
                 Cursor = Cursors.Wait;
@@ -42,6 +47,50 @@ namespace XmlCleaner
                 txtCode.TextArea.TextView.Redraw();
                 Cursor = Cursors.Arrow;
             }
+            else if (e.Key == Key.F6)
+            {
+                await _vm.CreateSyntaxTree(txtCode.Text);
+            }
+        }
+
+        private async void BuildSyntaxTree(string code)
+        {
+            TxtSyntax.Text = String.Empty;
+            TxtSyntax.Text = await Task<string>.Run(async () =>
+                {
+                    try
+                    {
+                        SyntaxTree compiled = SyntaxTree.ParseText(code);
+                        var visitor = new Visitor();
+                        visitor.Visit(await compiled.GetRootAsync());
+                        return visitor.Text;
+                    }
+                    catch { }
+                    return string.Empty;
+                });
+        }
+    }
+
+    public class Visitor : SyntaxRewriter
+    {
+        StringBuilder _sb = new StringBuilder();
+        private int indent = 0;
+        public string Text { get { return _sb.ToString(); } }
+
+        public override SyntaxNode Visit(SyntaxNode node)
+        {
+            indent++;
+            if (node != null)
+                _sb.AppendLine(new string(' ', indent * 2) + node.Kind.ToString());
+
+            var newNode = base.Visit(node);
+            indent--;
+            return newNode;
+        }
+
+        public override SyntaxNode VisitFieldDeclaration(FieldDeclarationSyntax node)
+        {
+            return base.VisitFieldDeclaration(node);
         }
     }
 }
