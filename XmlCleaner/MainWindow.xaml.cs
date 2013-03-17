@@ -1,8 +1,13 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using ICSharpCode.AvalonEdit.CodeCompletion;
+using ICSharpCode.AvalonEdit.Document;
+using ICSharpCode.AvalonEdit.Editing;
 using Roslyn.Compilers;
 using Roslyn.Compilers.Common;
 using Roslyn.Compilers.CSharp;
@@ -32,6 +37,53 @@ namespace XmlCleaner
 
             //txtCode.TextArea.TextView.LineTransformers.Add(new ColorizeAvalonEdit());
             txtCode.TextArea.TextView.LineTransformers.Add(new HighlightErrorLine(_vm));
+
+            txtCode.TextArea.TextEntered += TextArea_TextEntered;
+            txtCode.TextArea.TextEntering += TextArea_TextEntering;
+        }
+
+        CompletionWindow _completionWindow;
+        List<MyCompletionData> _completionTypes = new List<MyCompletionData>();
+
+        void TextArea_TextEntered(object sender, TextCompositionEventArgs e)
+        {
+            if (e.Text == ".")
+            {
+                // find out which item is on the left
+
+            }
+            else if (e.Text == " " && (Keyboard.Modifiers & ModifierKeys.Control) == ModifierKeys.Control)
+            {
+                if (!_completionTypes.Any())
+                {
+                    if (_vm.Types != null)
+                        _completionTypes.AddRange(_vm.Types.Select(t => new MyCompletionData(t.Name)));
+                    else
+                        return;
+                }
+
+                _completionWindow = new CompletionWindow(txtCode.TextArea);
+                var data = _completionWindow.CompletionList.CompletionData;
+                foreach (var item in _completionTypes)
+                    data.Add(item);
+
+                _completionWindow.Show();
+                _completionWindow.Closed += delegate
+                {
+                    _completionWindow = null;
+                };
+            }
+        }
+
+        void TextArea_TextEntering(object sender, TextCompositionEventArgs e)
+        {
+            if (e.Text.Length > 0 && _completionWindow != null)
+            {
+                if (!char.IsLetterOrDigit(e.Text[0]))
+                {
+                    _completionWindow.CompletionList.RequestInsertion(e);
+                }
+            }
         }
 
         private async void TxtCode_OnKeyDown(object sender, KeyEventArgs e)
@@ -51,6 +103,20 @@ namespace XmlCleaner
             {
                 await _vm.CreateSyntaxTree(txtCode.Text);
             }
+            //else if (e.Key == Key.Space &&
+            //         (Keyboard.Modifiers & ModifierKeys.Control) == ModifierKeys.Control)
+            //{
+            //    completionWindow = new CompletionWindow(txtCode.TextArea);
+            //    var data = completionWindow.CompletionList.CompletionData;
+            //    data.Add(new MyCompletionData("Item1"));
+            //    data.Add(new MyCompletionData("Item2"));
+            //    data.Add(new MyCompletionData("Item3"));
+            //    completionWindow.Show();
+            //    completionWindow.Closed += delegate
+            //    {
+            //        completionWindow = null;
+            //    };
+            //}
         }
 
         private async void BuildSyntaxTree(string code)
@@ -69,6 +135,45 @@ namespace XmlCleaner
                     { }
                     return string.Empty;
                 });
+        }
+    }
+
+    /// Implements AvalonEdit ICompletionData interface to provide the entries in the
+    /// completion drop down.
+    public class MyCompletionData : ICompletionData
+    {
+        public MyCompletionData(string text)
+        {
+            this.Text = text;
+        }
+
+        public System.Windows.Media.ImageSource Image
+        {
+            get { return null; }
+        }
+
+        public string Text { get; private set; }
+
+        // Use this property if you want to show a fancy UIElement in the list.
+        public object Content
+        {
+            get { return this.Text; }
+        }
+
+        public object Description
+        {
+            get { return "Description for " + this.Text; }
+        }
+
+        public void Complete(TextArea textArea, ISegment completionSegment,
+            EventArgs insertionRequestEventArgs)
+        {
+            textArea.Document.Replace(completionSegment, this.Text);
+        }
+
+        public double Priority
+        {
+            get { return 1; }
         }
     }
 

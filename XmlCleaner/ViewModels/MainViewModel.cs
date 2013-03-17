@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -120,6 +121,8 @@ namespace XmlCleaner.ViewModels
             set { SetAndNotify(ref _output, value); }
         }
 
+        public List<Type> Types { get; private set; }
+
         #endregion
 
         public ReadOnlyArray<CommonDiagnostic> BuildErrors { get; set; }
@@ -131,15 +134,32 @@ namespace XmlCleaner.ViewModels
             // this can be cached
             _engine = new ScriptEngine();
             _engine.AddReference(Assembly.GetEntryAssembly());
+            _engine.AddReference("System");
             _engine.AddReference("System.Core");
             _engine.AddReference("System.Collections");
             _engine.AddReference("System.Linq");
             _engine.AddReference("System.Xml");
             _engine.AddReference("System.Xml.Linq");
 
+            Task.Run(() => LoadSymbols());
+
             _bindings = new RoslynBinding(this);
 
             _session = _engine.CreateSession(_bindings);
+        }
+
+        private void LoadSymbols()
+        {
+            var types = new List<Type>();
+            foreach (var reference in _engine.GetReferences())
+            {
+                var assembly = Assembly.LoadFile(reference.Display);
+                types.AddRange(assembly.GetTypes().Where(type => type.IsPublic));
+            }
+
+            types.Sort((l, r) => l.Name.CompareTo(r.Name));
+
+            Types = types;
         }
 
         public async Task CompileAndRun(string text)
