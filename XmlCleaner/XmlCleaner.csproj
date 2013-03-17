@@ -86,6 +86,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AvalonExtensions\ColorizeAvalonEdit.cs" />
+    <Compile Include="AvalonUtilities\TextEditorExtensions.cs" />
+    <Compile Include="AvalonUtilities\TextEditorTextBindingBehavior.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelBase.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

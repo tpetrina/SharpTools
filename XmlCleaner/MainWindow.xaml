@@ -3,8 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:avalonEdit="http://icsharpcode.net/sharpdevelop/avalonedit"
         xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:avalonUtilities="clr-namespace:XmlCleaner.AvalonUtilities"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
         Title="XML Cleaner" Height="768" Width="1024"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen" d:DataContext="{d:DesignData MainViewModel}">
 
     <Window.Resources>
         <ResourceDictionary>
@@ -26,23 +30,47 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
         <Grid.Resources>
             <Style TargetType="{x:Type avalonEdit:TextEditor}">
-                <Setter Property="FontFamily" Value="Consolas"></Setter>
-                <Setter Property="SyntaxHighlighting" Value="XML"></Setter>
-                <Setter Property="FontSize" Value="10px"></Setter>
-                <Setter Property="Margin" Value="12,12,12,12"></Setter>
+                <Setter Property="FontFamily" Value="Consolas" />
+                <Setter Property="SyntaxHighlighting" Value="XML" />
+                <Setter Property="FontSize" Value="10px" />
+                <Setter Property="BorderBrush" Value="Black" />
+                <Setter Property="BorderThickness" Value="1" />
+                <Setter Property="Margin" Value="12,12,12,12" />
             </Style>
         </Grid.Resources>
 
-        <avalonEdit:TextEditor x:Name="txtInput"></avalonEdit:TextEditor>
-        <avalonEdit:TextEditor x:Name="txtOutput"
-                               Grid.Row="1" IsReadOnly="True"></avalonEdit:TextEditor>
+        <avalonEdit:TextEditor avalonUtilities:TextEditorExtensions.Text="{Binding InputText}" />
+
+        <TabControl Grid.Row="1">
+            <TabItem Header="Output XML">
+                <avalonEdit:TextEditor avalonUtilities:TextEditorExtensions.Text="{Binding OutputText}"
+                                       IsReadOnly="True" />
+            </TabItem>
+            <TabItem Header="Output">
+                <avalonEdit:TextEditor avalonUtilities:TextEditorExtensions.Text="{Binding Output}"
+                                       IsReadOnly="True" />
+            </TabItem>
+        </TabControl>
+
         <avalonEdit:TextEditor x:Name="txtCode" Grid.RowSpan="2" Grid.Column="1"
+                               avalonUtilities:TextEditorExtensions.Text="{Binding Code}"
                                SyntaxHighlighting="C#"
                                ShowLineNumbers="True"
-                               KeyDown="TxtCode_OnKeyDown"></avalonEdit:TextEditor>
+                               KeyDown="TxtCode_OnKeyDown">
+            <i:Interaction.Behaviors>
+                <avalonUtilities:TextEditorTextBindingBehavior Text="{Binding Code}"/>
+            </i:Interaction.Behaviors>
+        </avalonEdit:TextEditor>
+
+        <TextBlock Text="{Binding StatusText}"
+                   Background="{Binding StatusBackgroundColor}"
+                   Foreground="{Binding StatusForegroundColor}"
+                   Grid.Row="2" Grid.ColumnSpan="2"
+                   Padding="10,3" />
     </Grid>
 </controls:MetroWindow>
