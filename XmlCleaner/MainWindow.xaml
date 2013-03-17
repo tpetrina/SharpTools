@@ -44,7 +44,11 @@
             </Style>
         </Grid.Resources>
 
-        <avalonEdit:TextEditor avalonUtilities:TextEditorExtensions.Text="{Binding InputText}" />
+        <TabControl>
+            <TabItem Header="Input XML">
+                <avalonEdit:TextEditor avalonUtilities:TextEditorExtensions.Text="{Binding InputText}" />
+            </TabItem>
+        </TabControl>
 
         <TabControl Grid.Row="1">
             <TabItem Header="Output XML">

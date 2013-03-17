@@ -56,7 +56,7 @@ namespace XmlCleaner
         private async void BuildSyntaxTree(string code)
         {
             TxtSyntax.Text = String.Empty;
-            TxtSyntax.Text = await Task<string>.Run(async () =>
+            TxtSyntax.Text = await Task.Run(async () =>
                 {
                     try
                     {
@@ -65,7 +65,8 @@ namespace XmlCleaner
                         visitor.Visit(await compiled.GetRootAsync());
                         return visitor.Text;
                     }
-                    catch { }
+                    catch
+                    { }
                     return string.Empty;
                 });
         }
@@ -73,24 +74,24 @@ namespace XmlCleaner
 
     public class Visitor : SyntaxRewriter
     {
-        StringBuilder _sb = new StringBuilder();
-        private int indent = 0;
-        public string Text { get { return _sb.ToString(); } }
+        readonly StringBuilder _sb = new StringBuilder();
+        private int _indent;
+
+        public string Text
+        {
+            get
+            { return _sb.ToString(); }
+        }
 
         public override SyntaxNode Visit(SyntaxNode node)
         {
-            indent++;
+            _indent++;
             if (node != null)
-                _sb.AppendLine(new string(' ', indent * 2) + node.Kind.ToString());
+                _sb.AppendLine(new string(' ', _indent * 2) + node.Kind.ToString());
 
             var newNode = base.Visit(node);
-            indent--;
+            _indent--;
             return newNode;
-        }
-
-        public override SyntaxNode VisitFieldDeclaration(FieldDeclarationSyntax node)
-        {
-            return base.VisitFieldDeclaration(node);
         }
     }
 }
