@@ -87,6 +87,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="AvalonExtensions\ColorizeAvalonEdit.cs" />
+    <Compile Include="AvalonExtensions\HighlightErrorLine.cs" />
     <Compile Include="AvalonUtilities\TextEditorExtensions.cs" />
     <Compile Include="AvalonUtilities\TextEditorTextBindingBehavior.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Xml.Linq;
 using Roslyn.Compilers;
+using Roslyn.Compilers.Common;
 using Roslyn.Scripting;
 using Roslyn.Scripting.CSharp;
 
@@ -24,7 +25,7 @@ namespace XmlCleaner.ViewModels
             public void Print(object o)
             {
                 if (o != null)
-                    MessageBox.Show(o.ToString());
+                    _vm.Output += o + Environment.NewLine;
             }
 
             public void RemoveTags(string tagName)
@@ -120,6 +121,8 @@ namespace XmlCleaner.ViewModels
 
         #endregion
 
+        public ReadOnlyArray<CommonDiagnostic> BuildErrors { get; set; }
+
         public MainViewModel()
         {
             SetStatus("Ready");
@@ -142,6 +145,8 @@ namespace XmlCleaner.ViewModels
         {
             try
             {
+                BuildErrors = new ReadOnlyArray<CommonDiagnostic>();
+
                 SetStatus("Compiling", "Purple");
                 _bindings.InputXml = XDocument.Parse(InputText);
 
@@ -152,7 +157,8 @@ namespace XmlCleaner.ViewModels
             }
             catch (CompilationErrorException ex)
             {
-                SetStatus("Build failed: " + ex.Diagnostics[0].Location.ToString(), "Red");
+                SetStatus("Build failed: " + ex.Message, "Red");
+                BuildErrors = ex.Diagnostics;
             }
             catch (Exception ex)
             {

@@ -5,7 +5,6 @@ using ICSharpCode.AvalonEdit.Rendering;
 
 namespace XmlCleaner.AvalonExtensions
 {
-
     public class ColorizeAvalonEdit : DocumentColorizingTransformer
     {
         protected override void ColorizeLine(DocumentLine line)
