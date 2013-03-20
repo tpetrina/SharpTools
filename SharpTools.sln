@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8FAC8D
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxTreeVisualizer", "SyntaxTreeVisualizer\SyntaxTreeVisualizer.csproj", "{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{DB4791C3-5C2F-4F5D-A21D-002E86ABF789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4791C3-5C2F-4F5D-A21D-002E86ABF789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4791C3-5C2F-4F5D-A21D-002E86ABF789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

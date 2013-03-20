@@ -1,28 +1,48 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Threading.Tasks;
+using Roslyn.Compilers.CSharp;
 
 namespace SyntaxTreeVisualizer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow
     {
         public MainWindow()
         {
             InitializeComponent();
+
+            txtCode.Focus();
+        }
+
+        private async void TxtCode_OnKeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            var code = txtCode.Text;
+            var root = (await Task.Run(async () =>
+                {
+                    try
+                    {
+                        var compiled = Roslyn.Compilers.CSharp.SyntaxTree.ParseText(code);
+                        return await compiled.GetRootAsync();
+                    }
+                    // ReSharper disable EmptyGeneralCatchClause
+                    catch
+                    // ReSharper restore EmptyGeneralCatchClause
+                    {
+                    }
+
+                    return null;
+                })).ToEnumerable();
+
+            SyntaxTree.ItemsSource = root;
+        }
+    }
+
+    public static class Extensions
+    {
+        public static EnumerableSyntaxNode ToEnumerable(this SyntaxNode @this)
+        {
+            return new EnumerableSyntaxNode(@this);
         }
     }
 }

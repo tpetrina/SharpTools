@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>19fb0a2f-658a-4fc4-a671-0ecc0910a48f</ProjectGuid>
+    <ProjectGuid>{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SyntaxTreeVisualizer</RootNamespace>
@@ -13,6 +13,8 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,8 +36,38 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ICSharpCode.AvalonEdit">
+      <HintPath>..\packages\AvalonEdit.4.3.0.9390\lib\Net40\ICSharpCode.AvalonEdit.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro">
+      <HintPath>..\packages\MahApps.Metro.0.10.0.1\lib\net40\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Compilers">
+      <HintPath>..\packages\Roslyn.Compilers.Common.1.2.20906.2\lib\net45\Roslyn.Compilers.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Compilers.CSharp">
+      <HintPath>..\packages\Roslyn.Compilers.CSharp.1.2.20906.2\lib\net45\Roslyn.Compilers.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Compilers.VisualBasic">
+      <HintPath>..\packages\Roslyn.Compilers.VisualBasic.1.2.20906.2\lib\net45\Roslyn.Compilers.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Services">
+      <HintPath>..\packages\Roslyn.Services.Common.1.2.20906.2\lib\net45\Roslyn.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Services.CSharp">
+      <HintPath>..\packages\Roslyn.Services.CSharp.1.2.20906.2\lib\net45\Roslyn.Services.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Services.VisualBasic">
+      <HintPath>..\packages\Roslyn.Services.VisualBasic.1.2.20906.2\lib\net45\Roslyn.Services.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="Roslyn.Utilities">
+      <HintPath>..\packages\Roslyn.Services.Common.1.2.20906.2\lib\net45\Roslyn.Utilities.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.0.10.0.1\lib\net40\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -60,6 +92,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="EnumerableSyntaxNode.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -83,6 +116,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -93,6 +127,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
