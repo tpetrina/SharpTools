@@ -50,7 +50,7 @@ namespace XmlCleaner
             if (e.Text == ".")
             {
                 // find out which item is on the left
-
+                var tree = SyntaxTree.ParseText(txtCode.Text);
             }
             else if (e.Text == " " && (Keyboard.Modifiers & ModifierKeys.Control) == ModifierKeys.Control)
             {
