@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Roslyn Perspective";
+}
+
+<div>
+    <textarea cols="80" rows="20" id="cs" style="float: left;"></textarea>
+    <pre id="roslyn"></pre>
+</div>
+
+<script src="~/Scripts/jquery-1.9.1.js"></script>
+<script src="~/Scripts/underscore.js"></script>
+<script>
+    var $roslyn;
+    $(function () {
+        $roslyn = $("#roslyn");
+
+        var debounced = _.debounce(function () {
+            var data = $("#cs").val();
+            $.post('api/compiler/', "=" + data, function (d) {
+                $roslyn.text(d);
+            }).fail(function () { console.log("post failed"); });
+        }, 250);
+
+        $("#cs").keydown(debounced);
+    });
+</script>

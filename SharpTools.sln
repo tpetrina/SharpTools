@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8FAC8D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxTreeVisualizer", "SyntaxTreeVisualizer\SyntaxTreeVisualizer.csproj", "{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynPerspective", "RoslynPerspective\RoslynPerspective.csproj", "{885E87C0-4EF1-4E83-818B-93E764731AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B50F145-EB1C-4C3F-8B1F-D742CF96B319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885E87C0-4EF1-4E83-818B-93E764731AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885E87C0-4EF1-4E83-818B-93E764731AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885E87C0-4EF1-4E83-818B-93E764731AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885E87C0-4EF1-4E83-818B-93E764731AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
