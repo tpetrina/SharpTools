@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using ICSharpCode.AvalonEdit;
 
-namespace XmlCleaner.AvalonUtilities
+namespace Common.AvalonUtilities
 {
     public class TextEditorExtensions
     {

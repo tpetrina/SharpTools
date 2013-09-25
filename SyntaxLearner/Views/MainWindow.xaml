@@ -1,0 +1,88 @@
+﻿<controls:MetroWindow x:Class="SyntaxLearner.Views.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      xmlns:avalonEdit="clr-namespace:ICSharpCode.AvalonEdit;assembly=ICSharpCode.AvalonEdit"
+                      WindowStartupLocation="CenterScreen"
+                      WindowState="Maximized"
+                      Title="Syntax Learner" Height="350" Width="525">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Background="LightGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock Text="C# code"
+                       Margin="3" />
+            <avalonEdit:TextEditor x:Name="txtCode"
+                                   SyntaxHighlighting="C#"
+                                   ShowLineNumbers="True"
+                                   Margin="3"
+                                   Grid.Row="1"
+                                   KeyDown="KeyDown" />
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+            <TextBlock Text="Visitor code" Margin="3" />
+            <avalonEdit:TextEditor x:Name="txtVisitorCode"
+                                   SyntaxHighlighting="C#"
+                                   ShowLineNumbers="True"
+                                   Margin="3"
+                                   Grid.Row="1"
+                                   KeyDown="KeyDown" />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock Text="Original syntax tree" Margin="3" />
+            <avalonEdit:TextEditor x:Name="txtOutput"
+                                   Grid.Row="1"
+                                   IsReadOnly="True" Margin="3" />
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+            <TextBlock Text="Resulting syntax tree" Margin="3" />
+            <TextBlock Grid.Row="1" x:Name="infoBlock"
+                       TextWrapping="Wrap" />
+            <avalonEdit:TextEditor x:Name="txtOutputVisited"
+                                   Grid.Row="2"
+                                   IsReadOnly="True" Margin="3" />
+        </Grid>
+    </Grid>
+</controls:MetroWindow>

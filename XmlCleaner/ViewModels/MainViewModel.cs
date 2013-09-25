@@ -74,6 +74,7 @@ namespace XmlCleaner.ViewModels
         private string _inputText;
         private string _outputText;
         private string _output;
+        private ReadOnlyArray<CommonDiagnostic> _buildErrors;
 
         #endregion
 
@@ -125,7 +126,11 @@ namespace XmlCleaner.ViewModels
 
         #endregion
 
-        public ReadOnlyArray<CommonDiagnostic> BuildErrors { get; set; }
+        public ReadOnlyArray<CommonDiagnostic> BuildErrors
+        {
+            get { return _buildErrors; }
+            set { SetAndNotify(ref _buildErrors, value); }
+        }
 
         public MainViewModel()
         {

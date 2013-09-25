@@ -3,10 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:avalonEdit="http://icsharpcode.net/sharpdevelop/avalonedit"
         xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
-        xmlns:avalonUtilities="clr-namespace:XmlCleaner.AvalonUtilities"
         xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:avalonUtilities="clr-namespace:Common.AvalonUtilities;assembly=Common" mc:Ignorable="d"
         Title="XML Cleaner" Height="768" Width="1024"
         WindowStartupLocation="CenterScreen" d:DataContext="{d:DesignData MainViewModel}">
 

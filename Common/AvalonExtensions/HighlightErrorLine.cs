@@ -1,31 +1,26 @@
 ﻿using System;
-using System.Linq;
 using System.Windows.Media;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Rendering;
-using XmlCleaner.ViewModels;
+using Roslyn.Compilers;
+using Roslyn.Compilers.Common;
 
-namespace XmlCleaner.AvalonExtensions
+namespace Common.AvalonExtensions
 {
     public class HighlightErrorLine : DocumentColorizingTransformer
     {
-        private MainViewModel _vm;
-
-        public HighlightErrorLine(MainViewModel vm)
-        {
-            _vm = vm;
-        }
+        public ReadOnlyArray<CommonDiagnostic> Errors { get; set; }
 
         protected override void ColorizeLine(DocumentLine line)
         {
-            if (_vm.BuildErrors == null)
+            if (Errors == null)
                 return;
 
             var text = CurrentContext.Document.GetText(line);
             var start = line.Offset;
             var end = line.Offset + text.Length;
 
-            foreach (var error in _vm.BuildErrors)
+            foreach (var error in Errors)
             {
                 var span = error.Location.SourceSpan;
                 if (span.Start >= start && span.Start <= end)

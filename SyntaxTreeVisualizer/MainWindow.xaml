@@ -3,6 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
                       xmlns:avalonEdit="clr-namespace:ICSharpCode.AvalonEdit;assembly=ICSharpCode.AvalonEdit"
+                      xmlns:local="clr-namespace:SyntaxTreeVisualizer"
+                      xmlns:cSharp="clr-namespace:Roslyn.Compilers.CSharp;assembly=Roslyn.Compilers.CSharp"
                       Title="Syntax Tree Visualizer" Height="768" Width="1024"
                       WindowStartupLocation="CenterScreen">
 
@@ -17,7 +19,21 @@
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Window.Resources>
+    
     <Grid>
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type cSharp:FieldDeclarationSyntax}">
+                <TextBlock>aaaaaaaaaaaaa</TextBlock>
+            </DataTemplate>
+            <HierarchicalDataTemplate ItemsSource="{Binding Children}" DataType="{x:Type local:EnumerableSyntaxNode}">
+                <StackPanel>
+                    <TextBlock Text="{Binding SyntaxNode.Kind}" />
+                    <TextBlock Text="{Binding SyntaxNode.Span}" />
+                    <TextBlock Text="{Binding Text}" />
+                </StackPanel>
+            </HierarchicalDataTemplate>
+        </Grid.Resources>
+        
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
@@ -40,15 +56,6 @@
                             <Setter Property="TreeViewItem.IsExpanded" Value="True"/>
                         </Style>
                     </TreeView.ItemContainerStyle>
-                    <TreeView.ItemTemplate>
-                        <HierarchicalDataTemplate ItemsSource="{Binding Children}">
-                            <StackPanel>
-                                <TextBlock Text="{Binding SyntaxNode.Kind}" />
-                                <TextBlock Text="{Binding SyntaxNode.Span}" />
-                                <TextBlock Text="{Binding Text}" />
-                            </StackPanel>
-                        </HierarchicalDataTemplate>
-                    </TreeView.ItemTemplate>
                 </TreeView>
             </TabItem>
         </TabControl>

@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Interactivity;
 using ICSharpCode.AvalonEdit;
 
-namespace XmlCleaner.AvalonUtilities
+namespace Common.AvalonUtilities
 {
     public class TextEditorTextBindingBehavior : Behavior<TextEditor>
     {

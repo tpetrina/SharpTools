@@ -5,13 +5,13 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using Common.AvalonExtensions;
 using ICSharpCode.AvalonEdit.CodeCompletion;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Editing;
 using Roslyn.Compilers;
 using Roslyn.Compilers.Common;
 using Roslyn.Compilers.CSharp;
-using XmlCleaner.AvalonExtensions;
 using XmlCleaner.ViewModels;
 
 namespace XmlCleaner
@@ -28,6 +28,7 @@ namespace XmlCleaner
             InitializeComponent();
 
             DataContext = _vm = new MainViewModel();
+            _vm.PropertyChanged += _vm_PropertyChanged;
 
             // make sure we can start coding immediately
             txtCode.Focus();
@@ -36,14 +37,21 @@ namespace XmlCleaner
             _vm.InputText = string.Join(Environment.NewLine, File.ReadAllLines("PBZPodrunicaZagreb.kml"));
 
             //txtCode.TextArea.TextView.LineTransformers.Add(new ColorizeAvalonEdit());
-            txtCode.TextArea.TextView.LineTransformers.Add(new HighlightErrorLine(_vm));
+            txtCode.TextArea.TextView.LineTransformers.Add(_highlightErrorLine = new HighlightErrorLine());
 
             txtCode.TextArea.TextEntered += TextArea_TextEntered;
             txtCode.TextArea.TextEntering += TextArea_TextEntering;
         }
 
+        void _vm_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == "BuildErrors")
+                _highlightErrorLine.Errors = _vm.BuildErrors;
+        }
+
         CompletionWindow _completionWindow;
-        List<MyCompletionData> _completionTypes = new List<MyCompletionData>();
+        readonly List<MyCompletionData> _completionTypes = new List<MyCompletionData>();
+        private readonly HighlightErrorLine _highlightErrorLine;
 
         void TextArea_TextEntered(object sender, TextCompositionEventArgs e)
         {

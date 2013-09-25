@@ -3,7 +3,7 @@ using System.Windows.Media;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Rendering;
 
-namespace XmlCleaner.AvalonExtensions
+namespace Common.AvalonExtensions
 {
     public class ColorizeAvalonEdit : DocumentColorizingTransformer
     {
